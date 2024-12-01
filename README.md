@@ -1,7 +1,4 @@
 Landing Page Project
-Table of Contents
-Project Overview
-Author
 Project Overview
 This project dynamically generates a navigation bar for a landing page by processing an HTML
  file with multiple sections. Using JavaScript, the navigation bar is created based on the sections
